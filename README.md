@@ -16,6 +16,7 @@ Join: https://www.helpfulengineering.org/slack
 * Current preferred design.  See here for files (including solid works): https://github.com/dogcomplex/oscillating_ventilator/tree/0802406738ced803768a7151b4399e3e1ae447ef/army-ventilator/02_Designs/whitney
   * Please read the readme file in that folder^^
 * Design doc: https://docs.google.com/document/d/1por1ouQ4hEpHWrM--5hgncuU5_h0UzBLS1P5lqg7H7Q/edit#heading=h.w84bvm9bty9
+* Making an accurate test lung: https://docs.google.com/document/d/1nNPNRznSLzgwWVk6-7y4JbhlZey68pL0seNGCWr0gW4/edit
 
 ### Testing request
 
