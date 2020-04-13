@@ -11,3 +11,11 @@ For the “patient” port, a breathing valve is necessary to allow for a comple
 Warren, I’ll get around to adding this to the google doc in the next day or so. If we determine that 1) this works as the Army intended, 2) that it’s as quick and easy to procure as we think, and 3) it’s inadequate as a fixed ratio device, then maybe we could submit the idea to an electronics project to make it more adaptable.
 
 That’s all I got for now. Now please critique away!
+
+# Change Log
+
+## Version 3: "Army Vent PEEP 03" - 2020-04-10
+
+https://helpfulengineering.slack.com/archives/CV56SDD3L/p1586540641218500
+
+Version has standard 22mm ports
